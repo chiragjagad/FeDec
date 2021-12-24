@@ -1,0 +1,12 @@
+name: abc
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - cudatoolkit
+  - pytorch
+  - torchvision
+  - tensorboard
+  - numpy
